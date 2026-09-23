@@ -1,0 +1,576 @@
+{
+  "output": "MOOMOO_RADAR_EXPORT.zip",
+  "sha256": "fd320b8cae40bbcd3a32c9b112f816bbcc14387dd74fa65306d9f88909d12eb2",
+  "parts": [
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part001",
+      "bytes": 20000000,
+      "sha256": "5d92775f4a79a1542e9b82647589706cb1167049f4216a45c2c48df708441568"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part002",
+      "bytes": 20000000,
+      "sha256": "9e723fe6e3b30778e145883a5ea6187b9133c9f389c91c6d748fc7ad4da4d807"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part003",
+      "bytes": 20000000,
+      "sha256": "35b970dae8c4ad65f2f49e50f8189abb4d361053b07f9de7bf7345d4f2458ed3"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part004",
+      "bytes": 20000000,
+      "sha256": "bab7dbf415cae8bd323156af7fa8a09b3f19f4ccce54620b53628fb2f6f45e16"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part005",
+      "bytes": 20000000,
+      "sha256": "74b52d89d25f59d7cb03cd6e8106395222b32a3194e974928f92459cac8b1027"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part006",
+      "bytes": 20000000,
+      "sha256": "4055b5cf48165abfcceeafc4c98e64380d89ec11db5fad2a25f676230a10bbc1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part007",
+      "bytes": 20000000,
+      "sha256": "89721e4097c6a319c1d5b837371ca3d9fcfb056ec145f8c6ce72bd0c97f8ae43"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part008",
+      "bytes": 20000000,
+      "sha256": "51d35bf4016d1ca367efd11ede4dc6d0f09461b11b0153bfe9da85c5f4642097"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part009",
+      "bytes": 20000000,
+      "sha256": "eb0e09b33ac042cb29ba21680bd1e79dcb64719fd75c5a6dfea5a1eb3b9b4e22"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part010",
+      "bytes": 20000000,
+      "sha256": "c486ff118b95bcfe0a2edce8acec574d4dd57265540d2bfe88968d6ef10280ba"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part011",
+      "bytes": 20000000,
+      "sha256": "74d2e44672af3e8eeccf9d263dab43698ffa6e8d9442752d78553b28d4e0050d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part012",
+      "bytes": 20000000,
+      "sha256": "e68e7d5ff40e690546180534fea5b42a10b1b7b8c73d821c9341d9e9a1b99c20"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part013",
+      "bytes": 20000000,
+      "sha256": "09f06b75196cbf139b5538be43383305c4980174336adbbb329171f5a738ba63"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part014",
+      "bytes": 20000000,
+      "sha256": "b49d75764f3b9530e620275297595210fc17fa5fc1473b0f3e380f9b2330b2bb"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part015",
+      "bytes": 20000000,
+      "sha256": "db2e8cc3954100cfecc15d7442552cb44ec59a191bebeffd045bea7023dfde5c"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part016",
+      "bytes": 20000000,
+      "sha256": "dd015691386fee34cefb25d75d392e3f309340a08d05eb7eb9fbb0bbd63905ff"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part017",
+      "bytes": 20000000,
+      "sha256": "523ea2a8cd74a71239342d185a050cd90f2b6e5692cf63058b3f54a28f519c30"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part018",
+      "bytes": 20000000,
+      "sha256": "0e9a0f9bcc55f1d3099bc0366e1266ea8145e6ed62cbf3fce13784dfd7344db6"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part019",
+      "bytes": 20000000,
+      "sha256": "0c89cf48b8dbd2ac3ce5460af7713f31b31f1a966eb614626e83c629fde99f62"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part020",
+      "bytes": 20000000,
+      "sha256": "8b23d7a973e95d63e3a8f0d94b40122b3b691dcd8afb9fbe5a8cdc2bd4a6ca8e"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part021",
+      "bytes": 20000000,
+      "sha256": "98842cc1c9d51b95ed4148ce8b52f67a93c4a86b57c08b0c8078119a28090b7f"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part022",
+      "bytes": 20000000,
+      "sha256": "e577e6c6d7b8f88b5b0cf80e2f7df1b068ae46cbe01c0c0571ec5ef360e21156"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part023",
+      "bytes": 20000000,
+      "sha256": "95a438519d4e4fbf20a48f245665af5c961cdae31d90954535df1c052c39cee1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part024",
+      "bytes": 20000000,
+      "sha256": "0a89b121821333e8cdb51e45fc7c0db1577e15253da72ff3cf7aef673ef7647a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part025",
+      "bytes": 20000000,
+      "sha256": "615b66334479b62efeda16f250a0c7e0565b185a8605199b04fe1d9446308b7c"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part026",
+      "bytes": 20000000,
+      "sha256": "b3eacf89d9064ba99d2c0285cb285471ddeba637a98be8b882d2e96a75f021bd"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part027",
+      "bytes": 20000000,
+      "sha256": "429ae85796004b6292be006da11a60418cadf8358086f802db0c23598efde96f"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part028",
+      "bytes": 20000000,
+      "sha256": "7ccb2e9a7114a8e3be505c84f2a0effe14aa944c1b304b540a7d4c7913c3fd89"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part029",
+      "bytes": 20000000,
+      "sha256": "865b978db316eaf75f2fdf2442acb8aa983fd21d0add1ddf6c5eabd8513fe7c1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part030",
+      "bytes": 20000000,
+      "sha256": "5c7c2e5b737b4e60c3542671c05034ccb58d12c1f6f80414e6917de476805363"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part031",
+      "bytes": 20000000,
+      "sha256": "2103b57bb2b20eae68aa7f5b9e2ff08b71b71e51fef02e436aaba0adc1fc30e1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part032",
+      "bytes": 20000000,
+      "sha256": "ed9d19ba87788d62f52213467001064e5281b3ef49b8be0f38e0b011c2f976b8"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part033",
+      "bytes": 20000000,
+      "sha256": "fa750904b0fd4dfe24502c0e30112a6890e1bdfa93a03d18496b27b036fff4b7"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part034",
+      "bytes": 20000000,
+      "sha256": "dbbe9a2b9d4af701f12bb8bdf3e083270a9080e7fc72fdd297a0f4b286d8ec89"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part035",
+      "bytes": 20000000,
+      "sha256": "3afece16e3ff9152b9070eedfdadc1508debb98068bc14979b5be471c4bb6e92"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part036",
+      "bytes": 20000000,
+      "sha256": "b42c99f65deeeda71b50f9fb89563050a83d9117ea5a3e41b405d974abf409e5"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part037",
+      "bytes": 20000000,
+      "sha256": "c9bcdc2bc2fbd4d50735d08a3c11f5ebe33cbda9e07689f8b16ba8c965578f7d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part038",
+      "bytes": 20000000,
+      "sha256": "1a47ccb0484c157f409036ae5812d13c18bb2b60596f6f59153211f03a472e50"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part039",
+      "bytes": 20000000,
+      "sha256": "fdc5e09c97859f38d290f91e0721abc7ecfc4b7fe9594dc2ae3b32389b2ce67d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part040",
+      "bytes": 20000000,
+      "sha256": "14b48ea4b7f5c50a0dc2040db2b3fff713422e9f240dc2a2344f83a35d5e30b5"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part041",
+      "bytes": 20000000,
+      "sha256": "c1a390fccc6484ce7a0f9e927cad5fb019b219915550f143ed4b40987f671183"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part042",
+      "bytes": 20000000,
+      "sha256": "300f21de25649644a2bab3a69c5a5d5777465a3cda6565451fca708c7dab7230"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part043",
+      "bytes": 20000000,
+      "sha256": "57b7820769f19115e4d37b7518dec4e5178ea71d0412448d4cc6fad1e5563a54"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part044",
+      "bytes": 20000000,
+      "sha256": "e6b24606efb42fbf168e13d50a4b02a30e10e60d2996461cfacf96aedab097a8"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part045",
+      "bytes": 20000000,
+      "sha256": "03209c6a5a64aad5f3d19381583d8322e9e0fcd070c502fdb5923945f93440ab"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part046",
+      "bytes": 20000000,
+      "sha256": "aa76ee92bcca9e07ba181346e271bee5910b9ae4666bce7df4d46c1d51e5e77d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part047",
+      "bytes": 20000000,
+      "sha256": "d3e6cf2a4a96da6e6e5f66eb8704a8db3ddc0a76fd128fdaff67eb8ad6ee7aa2"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part048",
+      "bytes": 20000000,
+      "sha256": "c352ba7b051db6fa9fd4c12be547e25015f2ff7f944db7270ba1a38871a25617"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part049",
+      "bytes": 20000000,
+      "sha256": "4bd0a1f44dcc67eb519cd767eaf7cf96585a3bb0e413fe24308185857bb230e1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part050",
+      "bytes": 20000000,
+      "sha256": "9cb31efe1979d9d0bc5751fa54c286964cfef1e71020d92763d694154fad62cb"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part051",
+      "bytes": 20000000,
+      "sha256": "aabd7fc1a8dd44eec8b53e2e0a4109c3740966f4bc76ce36c54c136b8c8a9207"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part052",
+      "bytes": 20000000,
+      "sha256": "578747f1d66c412f140a10b69ed90ea3d3809815ade5ee660fae8eeff1e1ee68"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part053",
+      "bytes": 20000000,
+      "sha256": "d0ffca0aa1dc9013c255436b0e10dd95caf5eeeffe961659389e225126a87e8c"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part054",
+      "bytes": 20000000,
+      "sha256": "1d7b0d9cd69feeb9c3699b36ed95fe816b6d58d82b6712286006c24aa951fcc0"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part055",
+      "bytes": 20000000,
+      "sha256": "8f2febbd721f8b396c94d63a7124fe3e91a78f2cf333024aaf7191080dc5320f"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part056",
+      "bytes": 20000000,
+      "sha256": "b978c449c1983ac27d330dc2655cf3447fd50798eb7e7d455a7139bad2033b1a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part057",
+      "bytes": 20000000,
+      "sha256": "1493661c5891da86116287f66bae35982e5c6c6db8c7f886293c2e4a513e3e49"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part058",
+      "bytes": 20000000,
+      "sha256": "4360a3c1d99b405fed47ee6b6436ffc836d2b64d7af7ab7b9ab1adce73870514"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part059",
+      "bytes": 20000000,
+      "sha256": "f4a8de668feda0891938284f51db32cb42d6349769c7a9f48474595af60ea70d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part060",
+      "bytes": 20000000,
+      "sha256": "e037a13ab0a6639589309aa1def060927370d026178aefbec337604ad3764158"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part061",
+      "bytes": 20000000,
+      "sha256": "0c7ba54483694adb88a0efe6ec5336097fd7b39cceb6194c2e265e28cffb7e28"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part062",
+      "bytes": 20000000,
+      "sha256": "a26ef3a7d8572f97ed2182cab8d3a3212e418086541e173abc5ae1684808b12a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part063",
+      "bytes": 20000000,
+      "sha256": "5dfa3255aa4e28b4c2be08e35d740709ce8fa7a10c043d032ca672f55dc7c2d4"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part064",
+      "bytes": 20000000,
+      "sha256": "35e2b0a664e6e3d3607966f8522cd985e833d3cf724832fd70db82e04ccb4e9b"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part065",
+      "bytes": 20000000,
+      "sha256": "cf946f3228f2d9e2f95eb7ac51fd9ddce413910376fd1fe881583eedad657df1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part066",
+      "bytes": 20000000,
+      "sha256": "45fc31a556f50e43409f2d80999f9b828ac649772ad5213bbfc5ea1d3201f85a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part067",
+      "bytes": 20000000,
+      "sha256": "bdf64f3dbc56374f16da696905c2667a6fe1adbffa3ce2c3ecbe962a547082a2"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part068",
+      "bytes": 20000000,
+      "sha256": "a816cf61862f6fa12fdcfecb9c9363cee8fb1ec9c0a106c1d195426caf9aea1d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part069",
+      "bytes": 20000000,
+      "sha256": "32b6ceb7be816056a1700c1553a3a306503e40c45137e669b8c2e239dedbd5c2"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part070",
+      "bytes": 20000000,
+      "sha256": "781e4f6616613a66062b676360424a7026a4119b0ebdc049531f38a15620a6d9"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part071",
+      "bytes": 20000000,
+      "sha256": "5ed12fa0d1c545b54c546062fd98dd4dc195ef1c1890c520e758bf8e5e7f3490"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part072",
+      "bytes": 20000000,
+      "sha256": "bd4f750f4e43acceceb0d3020afbb3a7f8aff639c17c6d4c50797b96b6e2f232"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part073",
+      "bytes": 20000000,
+      "sha256": "227e6ad0c45a843310820c81c3b725f179e747b7ce4075fbaed9b7c2b3bd6ab8"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part074",
+      "bytes": 20000000,
+      "sha256": "6eaaaf0492017f1268cad131ab42e28874dbde86b27cf528bb8ad854d127932b"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part075",
+      "bytes": 20000000,
+      "sha256": "fb696957008877cbba34d2145f9c566a60400c722bc66a65cba0f6f6b63f0255"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part076",
+      "bytes": 20000000,
+      "sha256": "93d955c802fc3b943a644bfad941e66a24ab39e4a5d56b339224c662daa3ac57"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part077",
+      "bytes": 20000000,
+      "sha256": "d8114d596e1218e8ca14a7e87eb08be5920f7ee10aa267ab2360dd292299c4da"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part078",
+      "bytes": 20000000,
+      "sha256": "672322656b20783d8cfebbbad4d72b5bf2e93a84219ebf136b64ef312c18c2be"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part079",
+      "bytes": 20000000,
+      "sha256": "d5d412060f205ff76be8248622bc810fbd6083b457179a941d128ae336a5bb04"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part080",
+      "bytes": 20000000,
+      "sha256": "6128a742d84dfb4300a7e5f75e3af285b49f82d4618ddeeb72f0b06611e0eef7"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part081",
+      "bytes": 20000000,
+      "sha256": "20df3016e0b7043a57f2485755d9f7b96490979ad4e13530e1943f41218b30b5"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part082",
+      "bytes": 20000000,
+      "sha256": "4be18628dde60ccc3a644963ecd1a4940b584f8958b64d8dda9f5cc2e4a5aa8d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part083",
+      "bytes": 20000000,
+      "sha256": "4af4894be3d9ff0d9178675e8557117fccd52dbd49a7c1a057bb605188b87b42"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part084",
+      "bytes": 20000000,
+      "sha256": "440849d492a9473e42ca69f8b90b98d6e16497bd5a9931325aa8eae7d9e918a2"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part085",
+      "bytes": 20000000,
+      "sha256": "75ac4e09c2fe3ec8924b781882f605ef0c0904c123561b602a1684a92a08203d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part086",
+      "bytes": 20000000,
+      "sha256": "22094f2ea88e9ae3d8a0d8fb8954b619d4dc48a202ed583eae181c8b5a70fc8f"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part087",
+      "bytes": 20000000,
+      "sha256": "b3e6274e169762387a550a0118068a8cfdb94e1c646333b5fbff55ed80c5acb0"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part088",
+      "bytes": 20000000,
+      "sha256": "a334e0eda8e19ee28b1e994d823a0b12b181de20693e2d8334f35475ef4a1e1b"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part089",
+      "bytes": 20000000,
+      "sha256": "eb6499e5704860fa92555f1cba63488e2c15b5d802d7194772f4bbb99a0317b7"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part090",
+      "bytes": 20000000,
+      "sha256": "f747d6c47c10923d028821ef1f355ffdc4498488dd0ae1ef85ee58f3ac7b5862"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part091",
+      "bytes": 20000000,
+      "sha256": "2dc7eb64d434a290cc2528513f90f3ed4bfec4d42947eef136c8609eed208263"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part092",
+      "bytes": 20000000,
+      "sha256": "d9bfe1a9629b98c6463771d1c46c4ec536744b4ad965bd8826370e05ab970454"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part093",
+      "bytes": 20000000,
+      "sha256": "c649446ccec3eb0389c998caaff9baef19e76b0d5b1aae72a852c2bdcc0188f2"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part094",
+      "bytes": 20000000,
+      "sha256": "a628db156bb682d1054156db77ae2ea77f1545942ece6ce58d2716200d36e487"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part095",
+      "bytes": 20000000,
+      "sha256": "7b7eae1beb5f61827608834d989b94b4ba0274d3b5fb9881e8566f907bb6095a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part096",
+      "bytes": 20000000,
+      "sha256": "1e6e5453c76427cd33b3a65fdb69a10506511753093e6db2bfef3d3b860db9c4"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part097",
+      "bytes": 20000000,
+      "sha256": "e278eb60f71b7d8dbdc9be7cd67bece25c226d938c43dea14c9732f7f1068f0e"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part098",
+      "bytes": 20000000,
+      "sha256": "4dc549b89882e1db920d8d0a76ccbaf2b9512fcd0432f706e774e94643723b8d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part099",
+      "bytes": 20000000,
+      "sha256": "247e66d3353c83020d4a34a8487a3f4523fc353834f4af030f936c59b5f04d1b"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part100",
+      "bytes": 20000000,
+      "sha256": "87e476f9423c4e480dffdb9b87d7ad154a83da92072747771c41745970943ab7"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part101",
+      "bytes": 20000000,
+      "sha256": "4f2894df9336d267a44aff69cfcedffeca998f6229bdc1259828cb9a93098e40"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part102",
+      "bytes": 20000000,
+      "sha256": "1df32800b5be57a55ebfbcb4eefeeb2a971bbc231c40bfdcd4b14e7b7cf060fb"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part103",
+      "bytes": 20000000,
+      "sha256": "564f2e5523da858024fbc4a08503399c37f539bd6cddc9fc00722366cf7449ff"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part104",
+      "bytes": 20000000,
+      "sha256": "5474125bf01c2e7957e626614e5ec755091da398525295b1e25a5342f8247b8d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part105",
+      "bytes": 20000000,
+      "sha256": "4161b8ef88ddaf51cabd4b614d29bbb1803b721fa13904db1b76dabaecb0d94f"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part106",
+      "bytes": 20000000,
+      "sha256": "dc6d897c69b3f13f28df25d3dcc6b62dfac1c5e3a465fe9796323d2f3b34900a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part107",
+      "bytes": 20000000,
+      "sha256": "59b0417762c6bf11e0906bb2b2c1aa8c97254ae4b56307908e39a09de3b9ab92"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part108",
+      "bytes": 20000000,
+      "sha256": "b73e9ace230676ad4f9c8b6fba14f08e007b24c0b8150bbb1e44bb8c3dfa5e3d"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part109",
+      "bytes": 20000000,
+      "sha256": "d1cb3fdf385555821ef7ad1f90f7a10140c1858c971e84aa6643a8ed6e8e8bd1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part110",
+      "bytes": 20000000,
+      "sha256": "a4f47e503e0d030c0f747bdf389c8b831b7deae948caefe2a386c5243910953a"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part111",
+      "bytes": 20000000,
+      "sha256": "5a57a4e1e1b2d5e7ca5d4a92ac1245037354d7e6f84c7aa0f33ef87aab5aa9d1"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part112",
+      "bytes": 20000000,
+      "sha256": "5a12b4e4342456c5016305aa7185932493a6117c69201b55af4cdf7818c080e7"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part113",
+      "bytes": 20000000,
+      "sha256": "e07b191078aacab94ffe2ba96383d8919de41eac61d60422ddfdce4d8e505e05"
+    },
+    {
+      "file": "MOOMOO_RADAR_EXPORT.zip.part114",
+      "bytes": 6974645,
+      "sha256": "891947f06e8655c3c986955c999aee844ef3304d7f713bd4c3c7518a3b6d637b"
+    }
+  ]
+}
